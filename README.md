@@ -67,15 +67,17 @@ The Level of the Bed Slats needs to be raised to match the height of the Extensi
 
 ## Attaching the Stands
 Attach the stands from the Pre-Assembly step to the frame of the bed. Make sure they are stable and properly attached. They should be able to hold your weight after attaching. Use the smaller screws here. The outer stands should be each at about 25% of the bed length (looking from each end), the inner stand evenly distributed between the outer ones. My pictures here use a slightly different set up.
+
 ![Attaching the Stand](IMG20230528090038.jpg)
 ![Attaching the Stand](IMG20230528090042.jpg)
 
 ## Installing the Extension Sled Base
 Distribute the new Panels evenly on the extension Stands. Screw them in Place.
-Final Step - Adding a Mattress
+
 ![Installing the Extension Sled Base](IMG20230528112249.jpg)
 ![Installing the Extension Sled Base](IMG20230528112253.jpg)
 
 ## Final Step - Adding a Mattress
 Find a fitting Mattress e.g. on Kleinanzeigen.de
+
 ![Final Step](IMG20230528113855.jpg)
