@@ -62,6 +62,7 @@ The Level of the Bed Slats needs to be raised to match the height of the Extensi
 ![Elevating the Bed Slats](IMG20230527131118.jpg)
 ![Elevating the Bed Slats](IMG20230527131116.jpg)
 ![Elevating the Bed Slats](IMG20230527131233.jpg)
+![Elevating the Bed Slats](IMG20230527131235.jpg)
 ![Elevating the Bed Slats](IMG20230527132306.jpg)
 
 ## Attaching the Stands
