@@ -59,9 +59,9 @@ The Level of the Bed Slats needs to be raised to match the height of the Extensi
 - Fasten them with the larger Screws to the Bed Frame
 - Put Old Panels Back and screw them in place
 
-![Elevating the Bed Slats](IMG20230527131233.jpg)
 ![Elevating the Bed Slats](IMG20230527131118.jpg)
 ![Elevating the Bed Slats](IMG20230527131116.jpg)
+![Elevating the Bed Slats](IMG20230527131233.jpg)
 ![Elevating the Bed Slats](IMG20230527132306.jpg)
 
 ## Attaching the Stands
