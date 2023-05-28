@@ -11,7 +11,7 @@ This project should cost around 40 euros in total, the biggest cost factor being
 
 As part of the process, you'll need a mattress that fits your newly extended bed. I recommend Kleinanzeigen.de. You should be able to find a mattress for free there. You can store your old mattress in your floor's storage room, or throw it out if you plan to leave the larger mattress for the next tenant.
 
-I hope you find this guide helpfull in your endeavour to make your bed bigger.
+I hope you find this guide helpfull in your endeavour to avoid numb limbs when waking up in the morning.
 
 Alexander Wachowiak
 
