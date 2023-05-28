@@ -38,10 +38,10 @@ We hope you find this guide helpful, and we're excited to be part of your DIY jo
 
 ## Pre-Assembly
 Assemble four of these Stands. Use the “Extension-Width”-Size Wood, the “Extension Height”-Size Wood and the corner Braces.
-![Stands](IMG20230528090042.jpg)
-![Stands](IMG20230527121703.jpg)
-![Stands](IMG20230527103356.jpg)
-![Stands](IMG20230527103352.jpg)
+![Pre-Assembly](IMG20230528090042.jpg)
+![Pre-Assembly](IMG20230527121703.jpg)
+![Pre-Assembl](IMG20230527103356.jpg)
+![Pre-Assembl](IMG20230527103352.jpg)
 
 ## Elevating the Bed Slats
 The Level of the Bed Slats needs to be raised to match the height of the Extension. W/o this there would be a very uncomfortable bump in the mattress
@@ -55,4 +55,17 @@ The Level of the Bed Slats needs to be raised to match the height of the Extensi
 ![Elevating the Bed Slats](IMG20230527131116.jpg)
 ![Elevating the Bed Slats](IMG20230527132306.jpg)
 
+## Attaching the Stands
+Attach the stands from the Pre-Assembly step to the frame of the bed. Make sure they are stable and properly attached. They should be able to hold your weight after attaching. Use the smaller screws here. The outer stands should be each at about 25% of the bed length (looking from each end), the inner stand evenly distributed between the outer ones. My pictures here use a slightly different set up.
+![Attaching the Stand](IMG20230528090038.jpg)
+![Attaching the Stand](IMG20230528090042.jpg)
 
+## Installing the Extension Sled Base
+Distribute the new Panels evenly on the extension Stands. Screw them in Place.
+Final Step - Adding a Mattress
+![Installing the Extension Sled Base](IMG20230528112249.jpg)
+![Installing the Extension Sled Base](IMG20230528112253.jpg)
+
+## Final Step - Adding a Mattress
+Find a fitting Mattress e.g. on Kleinanzeigen.de
+![Final Step](IMG20230528113855.jpg)
