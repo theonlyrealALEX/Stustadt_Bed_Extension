@@ -2,12 +2,18 @@
 See Guide.pdf
 
 ## Preface
-Welcome to our tutorial on extending a single bed into a double bed. Before diving into the project, I encourage you to embrace a mindset of practicality and adaptation. While this guide offers step-by-step instructions, remember that your unique circumstances might require a few tweaks. Tailor this guide to your needs and preferences, ensuring the end result perfectly fits your living space.
-This project should cost you around 40 euros—a small investment for the upgrade in comfort and space that a double bed provides. However, it's not just about saving money; it's also about putting in high-quality work. By dedicating ample time to this project, paying attention to detail, and striving for the best results, your efforts will undoubtedly pay off.
-Always remember the golden rule of any DIY project: Measure twice, cut once. Precise measurements are crucial to the success of your bed extension. To ensure accuracy, mark your placements with a pencil before making any modifications. This practice minimises errors and helps ensure a smoother process.
-As part of the process, you'll need a mattress that fits your newly extended bed. I recommend finding great deals on Kleinanzeigen.de, a platform for classified ads where you can find a wide range of options to suit your needs.
+Welcome to my tutorial on extending a single bed into a double bed. Before diving into the project, I encourage you to embrace a mindset of practicality and adaptation. While this guide offers step-by-step instructions, remember that your unique circumstances might require a few tweaks. Tailor this guide to your needs and preferences, ensuring the end result perfectly fits your living space.
 Keep in mind: use common sense in every step. Measurements and Design might vary for your unique circumstances. 
-We hope you find this guide helpful, and we're excited to be part of your DIY journey. Enjoy the process, and here's to a more spacious and comfortable rest in your future double bed!
+
+Don't forget the golden rule of DIY: Measure twice, cut once. Use a pencil to mark your measurements and placements on the wood. This practice minimises errors and helps ensure a smoother process. It will result in a drastically better outcome, but even more importantly it will save time and money.
+
+This project should cost around 40 euros in total, the biggest cost factor being the wood. It should take at most one working day, depening on your experience. If you have put together IKEA furniture and know how to safely saw some wood - you should be capable enough to extend your bed. I went to bauhaus for the Materials and transported it back on my bike. That did not pose any challenges for me. If you are not confident enough to use your bike you can also rent a miles van. 
+
+As part of the process, you'll need a mattress that fits your newly extended bed. I recommend Kleinanzeigen.de. You should be able to find a mattress for free there.
+
+I hope you find this guide helpfull in your endeavour to make your bed bigger.
+
+Alexander Wachowiak
 
 ## Materials
 - Wood Panels (e.g. 4x2cm)
@@ -20,7 +26,8 @@ We hope you find this guide helpful, and we're excited to be part of your DIY jo
     - 3.5x25mm *>50 (Buy the large pack)
     - 3.5x35mm *>50 (Buy the large pack)
 
-![Wood-Panels](IMG20230527125833.jpg)
+![Materials](IMG20230527125833.jpg)
+![Materials](IMG20230527092502.jpg)
 
 ## Tools
 - Screwdriver
