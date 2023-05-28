@@ -19,5 +19,7 @@ We hope you find this guide helpful, and we're excited to be part of your DIY jo
 - Screws for Wood <- Size scaled accordingly to Wood Panels; e.g.
     - 3.5x25mm *>50 (Buy the large pack)
     - 3.5x35mm *>50 (Buy the large pack)
-![Wood-Panels](IMG20230527125833)
+
+![Wood-Panels](IMG20230527125833.jps)
+
 
