@@ -40,7 +40,7 @@ Alexander Wachowiak
 - …
 
 ![Tools](IMG20230527094300.jpg)
-![Tools](IMG20230527134602.jpg)
+![Tools](IMG20230527103515.jpg)
 ![Tools](IMG20230527134604.jpg)
 
 ## Pre-Assembly
