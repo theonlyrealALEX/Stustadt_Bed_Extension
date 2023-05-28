@@ -9,7 +9,7 @@ Don't forget the golden rule of DIY: Measure twice, cut once. Use a pencil to ma
 
 This project should cost around 40 euros in total, the biggest cost factor being the wood. It should take at most one working day, depening on your experience. If you have put together IKEA furniture and know how to safely saw some wood - you should be capable enough to extend your bed. I went to [Bauhaus](https://goo.gl/maps/CTeyRUpV2n5ZR5Df6) for the Materials and transported it back on my bike. That did not pose any challenges for me. If you are not confident enough to use your bike you can also rent a miles van. 
 
-As part of the process, you'll need a mattress that fits your newly extended bed. I recommend Kleinanzeigen.de. You should be able to find a mattress for free there.
+As part of the process, you'll need a mattress that fits your newly extended bed. I recommend Kleinanzeigen.de. You should be able to find a mattress for free there. You can store your old mattress in your floor's storage room, or throw it out if you plan to leave the larger mattress for the next tenant.
 
 I hope you find this guide helpfull in your endeavour to make your bed bigger.
 
