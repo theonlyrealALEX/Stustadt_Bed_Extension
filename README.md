@@ -42,3 +42,17 @@ Assemble four of these Stands. Use the “Extension-Width”-Size Wood, the “E
 ![Stands](IMG20230527121703.jpg)
 ![Stands](IMG20230527103356.jpg)
 ![Stands](IMG20230527103352.jpg)
+
+## Elevating the Bed Slats
+The Level of the Bed Slats needs to be raised to match the height of the Extension. W/o this there would be a very uncomfortable bump in the mattress
+- Remove old Wood Panels
+- Put the new Panels where the old ones touched the Frame
+- Fasten them with the larger Screws to the Bed Frame
+- Put Old Panels Back and screw them in place
+
+![Elevating the Bed Slats](IMG20230527131233.jpg)
+![Elevating the Bed Slats](IMG20230527131118.jpg)
+![Elevating the Bed Slats](IMG20230527131116.jpg)
+![Elevating the Bed Slats](IMG20230527132306.jpg)
+
+
