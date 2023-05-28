@@ -20,6 +20,6 @@ We hope you find this guide helpful, and we're excited to be part of your DIY jo
     - 3.5x25mm *>50 (Buy the large pack)
     - 3.5x35mm *>50 (Buy the large pack)
 
-![Wood-Panels](IMG20230527125833.jps)
+![Wood-Panels](IMG20230527125833.jpg)
 
 
