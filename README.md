@@ -5,6 +5,8 @@ See Guide.pdf
 Welcome to my tutorial on extending a single bed into a double bed. Before diving into the project, I encourage you to embrace a mindset of practicality and adaptation. While this guide offers step-by-step instructions, remember that your unique circumstances might require a few tweaks. Tailor this guide to your needs and preferences, ensuring the end result perfectly fits your living space.
 Keep in mind: use common sense in every step. Measurements and Design might vary for your unique circumstances. 
 
+You will only need some standart tools. I highly reccomend to get some sort of a power screwdriver.
+
 Don't forget the golden rule of DIY: Measure twice, cut once. Use a pencil to mark your measurements and placements on the wood. This practice minimises errors and helps ensure a smoother process. It will result in a drastically better outcome, but even more importantly it will save time and money.
 
 This project should cost around 40 euros in total, the biggest cost factor being the wood. It should take at most one working day, depening on your experience. If you have put together IKEA furniture and know how to safely saw some wood - you should be capable enough to extend your bed. I went to [Bauhaus](https://goo.gl/maps/CTeyRUpV2n5ZR5Df6) for the Materials and transported it back on my bike. That did not pose any challenges for me. If you are not confident enough to use your bike you can also rent a miles van. 
