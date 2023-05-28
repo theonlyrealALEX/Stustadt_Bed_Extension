@@ -22,4 +22,23 @@ We hope you find this guide helpful, and we're excited to be part of your DIY jo
 
 ![Wood-Panels](IMG20230527125833.jpg)
 
+## Tools
+- Screwdriver
+- Power Screwdriver (Highly Recommended)
+- Saw
+- Sandpaper
+- Ruler/Tape Measure
+- Pencil
+- Brain/Common Sense
+- …
 
+![Tools](IMG20230527094300.jpg)
+![Tools](IMG20230527134602.jpg)
+![Tools](IMG20230527134604.jpg)
+
+## Pre-Assembly
+Assemble four of these Stands. Use the “Extension-Width”-Size Wood, the “Extension Height”-Size Wood and the corner Braces.
+![Stands](IMG20230528090042.jpg)
+![Stands](IMG20230527121703.jpg)
+![Stands](IMG20230527103356.jpg)
+![Stands](IMG20230527103352.jpg)
