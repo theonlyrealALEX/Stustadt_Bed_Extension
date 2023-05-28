@@ -7,7 +7,7 @@ Keep in mind: use common sense in every step. Measurements and Design might vary
 
 Don't forget the golden rule of DIY: Measure twice, cut once. Use a pencil to mark your measurements and placements on the wood. This practice minimises errors and helps ensure a smoother process. It will result in a drastically better outcome, but even more importantly it will save time and money.
 
-This project should cost around 40 euros in total, the biggest cost factor being the wood. It should take at most one working day, depening on your experience. If you have put together IKEA furniture and know how to safely saw some wood - you should be capable enough to extend your bed. I went to bauhaus for the Materials and transported it back on my bike. That did not pose any challenges for me. If you are not confident enough to use your bike you can also rent a miles van. 
+This project should cost around 40 euros in total, the biggest cost factor being the wood. It should take at most one working day, depening on your experience. If you have put together IKEA furniture and know how to safely saw some wood - you should be capable enough to extend your bed. I went to [Bauhaus](https://goo.gl/maps/CTeyRUpV2n5ZR5Df6) for the Materials and transported it back on my bike. That did not pose any challenges for me. If you are not confident enough to use your bike you can also rent a miles van. 
 
 As part of the process, you'll need a mattress that fits your newly extended bed. I recommend Kleinanzeigen.de. You should be able to find a mattress for free there.
 
